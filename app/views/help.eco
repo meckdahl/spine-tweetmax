@@ -1,0 +1,9 @@
+<div class="span5">
+<h1>
+    <div class="well">
+        <a href="#popoverHash" class="btn btn-success btn-large" rel="popover" title="ScheduleMAX Live Help" data-content="Welcome to our Application, how can I help you?">
+            Help Page
+        </a>
+    </div>
+</h1>
+</div>

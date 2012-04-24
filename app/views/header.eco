@@ -1,0 +1,55 @@
+<!-- Old Test Header
+<div class="span12">
+<header>
+  <button class="span1"> <img src="favicon.ico"></button>
+  <h1 class="span8 offset1"> ScheduleMAX Test Application
+<ul class="nav nav-list span12">
+    <li class="divider"></li>
+</ul>
+</header>
+</div>
+-->
+
+<!-- Twitter Navbar
+================================================== -->
+<div class="navbar">
+    <div class="navbar-inner">
+        <div class="container">
+            <a data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar">
+                <span class="icon-bar"/>
+                <span class="icon-bar"/>
+
+                <span class="icon-bar"/>
+            </a>
+            <a href="#" class="brand">ScheduleMAX Test App</a>
+            <div class="nav-collapse">
+            <div class="">
+                <ul class="nav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="#">Link</a></li>
+
+                    <!--<li><a href="#">Link</a></li>-->
+
+                    <li class="dropdown">
+                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">Dropdown <b class="caret"/></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Action</a></li>
+                            <li><a href="#">Another action</a></li>
+
+                            <li><a href="#">Something else here</a></li>
+                            <li class="divider"/>
+                            <li class="nav-header">Nav header</li>
+                            <li><a href="#">Separated link</a></li>
+                            <li><a href="#">One more separated link</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+                <form action="" class="navbar-search pull-left">
+                    <input type="text" placeholder="Search" class="search-query span2"/>
+                </form>
+
+            </div><!-- /.nav-collapse -->
+        </div>
+    </div><!-- /navbar-inner -->
+</div><!-- /navbar -->

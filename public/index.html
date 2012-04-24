@@ -1,0 +1,63 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Twitter Max Test Application</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style-responsive.css">
+    <script src="js/lib/modernizr-2.5.3.min.js"></script>
+
+
+    <link rel="stylesheet" href="/application.css" type="text/css" charset="utf-8">
+    <script src="/application.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" charset="utf-8">
+        var jQuery  = require("jqueryify");
+        var exports = this;
+        jQuery(function(){
+            var App = require("index");
+            exports.app = new App({el: $("div.row-fluid")});
+        });
+    </script>
+</head>
+<body>
+<header>
+
+</header>
+<div class="container-fluid">
+<div id="app" role="main" class="row-fluid">
+Waiting for content...
+</div>
+</div>
+<footer>
+</footer>
+
+<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<!-- load Spine.js -->
+<script src="js/spine/spine.js"></script>
+<!-- load js -->
+<script src="js/index.js"></script>
+<!-- load bootstrap modules js -->
+<script src="js/bootstrap/bootstrap.js"></script>
+<!--<script src="js/bootstrap/dropdown.js"></script>-->
+<!--<script src="js/bootstrap/collapse.js"></script>-->
+<!--<script src="js/bootstrap/transition.js"></script>-->
+<!--<script src="js/bootstrap/tooltip.js"></script>-->
+<!--<script src="js/bootstrap/popover.js"></script>-->
+<!--<img src="js/bootstrap/img/glyphicons-halflings.png">-->
+<script>
+    // var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    // (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    // g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    // s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+</body>
+</html>

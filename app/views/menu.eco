@@ -1,0 +1,16 @@
+
+<div class="span3">
+<ul class="nav nav-list">
+
+    <li><button class="menu1 btn btn-primary btn-large"> Default </button></li> <br>
+    <li><button class="menu2 btn btn-primary btn-large"> Home </button></li> <br>
+    <li><button class="menu3 btn btn-primary btn-large"> Contacts </button></li> <br>
+    <li><button class="menu4 btn btn-primary btn-large"> Help </button></li> <br>
+
+
+</ul>
+<!-- Bootstrap Horizontal Bar -->
+<!--<ul class="nav nav-list">-->
+    <!--<li class="divider"></li>-->
+<!--</ul>-->
+</div>
