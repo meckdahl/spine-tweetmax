@@ -1,8 +1,8 @@
 
-<div class="span5">
+<div class="span3 offset2">
     <h1>
         <div class="well">
-            <a href="#popoverHash" class="btn btn-danger btn-large" rel="popover" title="ScheduleMAX Live Help" data-content="Welcome to our Application, how can I help you?">
+            <a href="#popoverHash" class="btn btn-danger btn-large pop" rel="popover" title="ScheduleMAX Live Help" data-content="Welcome to our Application, how can I help you?">
                 Contacts Page
             </a>
         </div>

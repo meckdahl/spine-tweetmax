@@ -1,4 +1,4 @@
 <div class="span5">
-    <h1><a href="" rel="tooltip" title="Click to reload page..."> Active Page = </a></h1>
+    <h1><a href="" class="tip" rel="tooltip" title="Click to reload page..."> Active Page = </a></h1>
 
 </div>
