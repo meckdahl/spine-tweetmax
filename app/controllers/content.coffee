@@ -14,7 +14,8 @@ class Content extends Spine.Controller
   className: 'content'
 
   elements:
-    '.btn-large': 'Button'
+    '.pop': 'Popover'
+    '.tip': 'Tooltip'
 
   constructor: ->
     super
@@ -39,6 +40,7 @@ class Content extends Spine.Controller
     @append @contentview
 
     # Activate Popovers in sub-pages
-    $(@Button).popover()
+    $(@Popover).popover()
+    $(@Tooltip).tooltip()
 
 module.exports = Content
