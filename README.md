@@ -29,7 +29,10 @@ need in this application from a high level architectural standpoint.
     Create a starting point for a more complex application.
     Learn, play, test, enjoy the process
 
-Setup
+##Screen shots
+[![Click on screen shot to see developer website](https://github.com/meckdahl/spine-tweetmax/raw/master/wiki/screenshot.png "Sample Screenshot")](http://www.schedulemax.com)
+
+##Detailed Setup
 
 Firstly, to make life easier, we're going to install Spine.app and Hem. Spine.app is a Spine
 application generator. It's not required to use Spine, but very useful all the same.
@@ -72,6 +75,13 @@ Local installation (in Brief)
 Author
 ==================
 Mark Eckdahl
+<<<<<<< HEAD
+=======
+
+http://www.schedulemax.com
+
+ScheduleMAX - Online Scheduling
+>>>>>>> Added screenshot
 
 http://www.schedulemax.com
 
