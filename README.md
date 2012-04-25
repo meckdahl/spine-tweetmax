@@ -29,8 +29,8 @@ need in this application from a high level architectural standpoint.
     Create a starting point for a more complex application.
     Learn, play, test, enjoy the process
 
-##Screen shots
-[![Click on screen shot to see developer website](https://github.com/meckdahl/spine-tweetmax/raw/master/wiki/screenshot.png "Sample Screenshot")](http://www.schedulemax.com)
+##Screen shot
+[![Click on screen shot to see developer website](https://github.com/meckdahl/spine-tweetmax/raw/master/wiki/Screenshot.png "Sample Screenshot")](http://www.schedulemax.com)
 
 ##Detailed Setup
 
@@ -60,7 +60,7 @@ In the console open  http://localhost:9294
 Tweek the code and enjoy!
 
 
-Local installation (in Brief)
+Quick Setup Installation
 ==================
 
 1) Open Terminal
