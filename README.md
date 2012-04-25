@@ -75,14 +75,9 @@ Local installation (in Brief)
 Author
 ==================
 Mark Eckdahl
-<<<<<<< HEAD
-=======
 
 http://www.schedulemax.com
 
 ScheduleMAX - Online Scheduling
->>>>>>> Added screenshot
 
-http://www.schedulemax.com
 
-ScheduleMAX - Online Scheduling
