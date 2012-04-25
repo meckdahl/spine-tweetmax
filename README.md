@@ -4,6 +4,7 @@ spine-tweetmax
 Spine sample app using Twitter Bootstrap HTML5 Boilerplate
 
 Snippets below from Spine Documentation, which you should peruse:
+
 http://spinejs.com/docs/example_contacts
 
 I recommend reading the above example if you get lost (or vice versa)
@@ -51,11 +52,27 @@ hem server
 
 Now our server is running, let's open up the application:
 
-open http://localhost:9294
+In the console open  http://localhost:9294
 
 Tweek the code and enjoy!
 
+
+Local installation (in Brief)
+==================
+
+1) Open Terminal
+
+    git clone https://github.com/meckdahl/spine-tweetmax
+    cd spine-tweetmax
+    npm install .
+    hem server
+
+2) Open http://localhost:9294 in browser
+
+Author
+==================
 Mark Eckdahl
-ScheduleMAX Online Scheduling
 
+http://www.schedulemax.com
 
+ScheduleMAX - Online Scheduling
